@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![](https://www.codewars.com/users/zangwang/badges/micro)
+
+I am a front-end web developer and freelance video editor. I learned basic programming knowledge at Alpha Camp, an online session-based course while I worked. In June 2020, I joined Lidemy Mentor Program to learn more about web development. I consider myself a creative programmer. I love to build up projects for real impact. My video production background improves my vision of software development. To me, programming just like writing a novel. Users read the story through UI and interaction, and we must tell a good story.
+
+
+
 <!--
 **cybershota/cybershota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
